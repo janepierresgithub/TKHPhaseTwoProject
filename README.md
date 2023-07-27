@@ -4,7 +4,7 @@ This repository contains the elements the Phase 2 project as a Cybersecurity & N
 
 **Included in this repository are:** 
 
-![VPC/Cloud Environment Topology](https://github.com/jjperipheral/TKHPhaseTwoProject/blob/main/Phase%202%20Project%20Topology.pdf)
+![VPC/Cloud Environment Topology](https://github.com/jjperipheral/TKHPhaseTwoProject/blob/main/PhaseTwoTopology.jpg)
 
 [SSH-ing Between EC2 Terminals 👩🏽‍💻](https://drive.google.com/file/d/13OHiQA0Qm_hMLMzfgfq1sSR0NYbuYKMd/view?usp=share_link)
 Video documenting various terminals SSH-ing into their relative EC2 instance and using the ICMP IPv4 security group rule to ping between EC2 instances.
