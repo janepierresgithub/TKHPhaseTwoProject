@@ -1,6 +1,6 @@
 # Phase Two Project
 
-This repository contains the elements the Phase Two project as a Cybersecurity & Networking Fellow in the Innovation Fellowship at The Knowledge House. This group project involved creating a functional Cybersecurity Lab within Amazon Web Services (AWS) installing and utilizing SIEM, VPC, VPC Peering, IPS, Offensive Security, IDS, an Exploitive Machine and a Static IP website.  This lab also utilizes a topology and a cost analysis report.
+In the Phase 2 group project of the Innovation Fellowship at The Knowledge House, our team adeptly leveraged Amazon Web Services (AWS) to design and develop a comprehensive cybersecurity lab. As the Project Manager, I had the opportunity to oversee technical documentation and contribute to the development of the infrastructure's intricacies. Key facets of this project encompassed establishing Virtual Private Clouds (VPCs), forging VPC Peering, and seamlessly integrating pivotal tools such as Splunk EC2, Kali Linux, pfSense, and Metasploitable. The culmination of these efforts has yielded a fortified environment, meticulously crafted for both offensive and defensive security measures. This repository serves as a testament to our endeavors, encapsulating elements like SIEM, IPS, IDS, an exploitative machine, and a static IP website, further augmented with a coherent topology and an in-depth cost analysis report.
 
 **Included in this repository are:** 
 
